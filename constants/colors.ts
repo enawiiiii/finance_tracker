@@ -1,0 +1,32 @@
+const Colors = {
+  bg: '#060B18',
+  bgLight: '#0C1428',
+  bgCard: '#0F1A33',
+  accent: '#00E5CC',
+  accentDim: '#00B8A3',
+  accentGlow: 'rgba(0, 229, 204, 0.15)',
+  accentGlowStrong: 'rgba(0, 229, 204, 0.3)',
+  income: '#00E5CC',
+  incomeGlow: 'rgba(0, 229, 204, 0.2)',
+  expense: '#FF6B8A',
+  expenseGlow: 'rgba(255, 107, 138, 0.2)',
+  white: '#FFFFFF',
+  textPrimary: '#E8ECF4',
+  textSecondary: 'rgba(232, 236, 244, 0.55)',
+  textDim: 'rgba(232, 236, 244, 0.3)',
+  border: 'rgba(232, 236, 244, 0.08)',
+  borderLight: 'rgba(232, 236, 244, 0.12)',
+  star: 'rgba(232, 236, 244, 0.4)',
+  overlay: 'rgba(6, 11, 24, 0.85)',
+  danger: '#FF4B6E',
+  warning: '#FFB84D',
+  light: {
+    text: '#E8ECF4',
+    background: '#060B18',
+    tint: '#00E5CC',
+    tabIconDefault: 'rgba(232, 236, 244, 0.4)',
+    tabIconSelected: '#00E5CC',
+  },
+};
+
+export default Colors;

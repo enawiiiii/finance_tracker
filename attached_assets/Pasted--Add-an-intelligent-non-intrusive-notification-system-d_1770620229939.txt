@@ -1,0 +1,75 @@
+
+Add an intelligent, non-intrusive notification system designed for a space-themed personal finance mobile app built with Expo (React Native).
+
+The notification system must feel calm, observant, and intelligent — never aggressive, alarming, or spam-like. Notifications should behave like a “silent observer of the user’s financial orbit,” not a bank alert system.
+
+Notification Philosophy
+	•	No loud warnings
+	•	No excessive numbers unless explicitly enabled
+	•	Emotional tone: calm, reflective, cosmic
+	•	Notifications should feel optional, respectful, and intelligent
+
+Notification Types
+
+1. Orbit Stability Notifications
+Triggered when spending and income patterns are stable.
+Example messages:
+	•	“Your orbit is stable today.”
+	•	“No corrections needed. You’re moving smoothly.”
+
+2. Orbit Deviation Notifications
+Triggered when spending behavior slightly deviates from the user’s normal pattern (not urgent).
+Example messages:
+	•	“A small shift in your orbit was detected.”
+	•	“Minor deviation observed. Stay aware.”
+
+3. Entry-Based Notifications (Behavioral, Not Time-Based)
+Notifications should trigger based on user actions, not fixed schedules:
+	•	First expense of the day
+	•	Multiple expenses in the same category
+	•	New income entry
+
+Example messages:
+	•	“A new object entered your orbit.”
+	•	“Repeated activity detected in this sector.”
+	•	“New resources have arrived.”
+
+4. Silence Notifications (Re-engagement Without Pressure)
+If the user hasn’t opened the app for a long period:
+	•	“The system remains calm. No action required.”
+	•	“Nothing urgent detected. Your orbit holds.”
+
+Monthly & Milestone Notifications
+	•	End of month summary notification using descriptive language instead of raw numbers
+	•	Income arrival notification framed as a new orbit cycle
+
+Example messages:
+	•	“This cycle ends in balance.”
+	•	“A new orbit begins.”
+
+Language & Localization
+	•	All notifications must support Arabic and English
+	•	Language switches automatically based on user preference
+	•	Arabic tone must be natural, modern, and calm (not robotic or formal)
+
+User Control
+
+Allow users to fully customize notification behavior:
+	•	Smart notifications only
+	•	No numbers mode
+	•	Monthly-only notifications
+	•	Silent mode
+	•	Full disable
+
+Technical Requirements (Expo)
+	•	Use expo-notifications
+	•	Support local notifications and scheduled notifications
+	•	Notifications must not require a backend
+	•	Permission request must occur after onboarding, not on app launch
+
+Design Integration
+	•	Notifications must visually and linguistically match the space-themed UI
+	•	Use orbit, gravity, stability, deviation, cycle, and observer metaphors
+	•	Avoid banking, accounting, or alarm-based language
+
+The notification system should feel like a calm AI navigator silently assisting the user, not controlling them

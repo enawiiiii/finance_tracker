@@ -1,0 +1,161 @@
+Apply the following enhancements only:
+
+⸻
+
+1. Planet Color System (Critical Visual Upgrade)
+
+Enhance the space timeline by assigning meaningful, dynamic colors to each planet (month).
+
+Rules:
+	•	Each month must have a distinct, soft, premium color
+	•	No harsh neon or UI indicator colors
+	•	Colors must feel astronomical and cinematic
+
+Color meaning (guideline, not rigid):
+	•	Teal / Green → Stable and positive month
+	•	Blue → Calm and balanced
+	•	Yellow / Orange → High financial activity
+	•	Soft Red tint → Heavy expenses or instability
+
+Planet color represents the state of the month, not individual categories.
+
+⸻
+
+2. Multi-Currency Support (Required)
+
+Add full multi-currency support.
+
+Users must be able to:
+	•	Select a primary currency:
+	•	AED (Dirham)
+	•	USD (Dollar)
+	•	EUR
+	•	GBP
+	•	TRY (Lira)
+	•	Change currency anytime from settings
+	•	See all balances, inputs, analytics, and summaries update instantly
+
+Currency formatting must:
+	•	Match locale
+	•	Remain visually subtle
+	•	Never overpower the design
+
+(Optional) Store values internally using a base currency for consistency.
+
+⸻
+
+3. Multi-Language Support – Arabic & English
+
+Add full bilingual support.
+
+Languages:
+	•	English (Default)
+	•	Arabic (Full RTL support)
+
+Requirements:
+	•	Seamless language switching
+	•	Proper RTL layout adjustments
+	•	Arabic-optimized typography
+	•	Calm, human translations (not literal)
+
+Arabic tone must feel:
+	•	هادئ
+	•	تأملي
+	•	مطمئن
+
+Example Arabic copy:
+
+“هذا الشهر كان متزنًا. بقيت في مدارك.”
+
+⸻
+
+4. Settings as Control Room
+
+Upgrade settings into a space control room.
+
+Users can:
+	•	Change language (AR / EN)
+	•	Change currency
+	•	Enable/disable animations
+	•	Enable/disable AI insights
+	•	Toggle sound effects (optional)
+
+Settings must feel intentional, minimal, and powerful.
+
+⸻
+
+5. Unique Feature – Orbit Rings
+
+Each planet (month) includes subtle orbit rings.
+	•	Rings represent spending behavior layers:
+	•	Fixed expenses
+	•	Recurring subscriptions
+	•	One-time or surprise expenses
+	•	Rings are visual only (no numbers)
+	•	Ring thickness and glow vary by intensity
+
+This allows users to understand complexity at a glance.
+
+⸻
+
+6. Unique Feature – Time Warp Mode
+
+Add a “Time Warp” interaction.
+	•	Long-press on a month’s planet
+	•	Display a temporary alternate timeline:
+	•	“What if this expense didn’t happen?”
+	•	Show visual difference only
+	•	Do NOT modify real data
+
+This feature must feel experimental, calm, and reversible.
+
+⸻
+
+7. Unique Feature – Financial Silence Mode
+
+Add a Silence Mode.
+
+When enabled:
+	•	Hide numbers
+	•	Hide totals
+	•	Hide analytics labels
+
+Keep:
+	•	Motion
+	•	Colors
+	•	Orbit behavior
+
+This mode is designed to reduce financial anxiety.
+
+⸻
+
+8. Unique Feature – Category Echo
+
+Each expense category has a visual echo.
+	•	Repeated categories create subtle recurring effects
+	•	Echoes appear as faint pulses or trails
+	•	No alerts, no warnings
+
+The universe quietly reflects habits.
+
+⸻
+
+9. Annual Memory Constellation
+
+At the end of each year:
+	•	Generate a constellation
+	•	Each star represents a month
+	•	Brightness and spacing reflect stability
+
+This provides a one-glance yearly reflection.
+
+⸻
+
+Final Instruction
+
+All added features must:
+	•	Preserve calmness
+	•	Avoid explanation screens
+	•	Be discoverable, not announced
+
+If any feature adds noise or confusion, reduce or remove it.

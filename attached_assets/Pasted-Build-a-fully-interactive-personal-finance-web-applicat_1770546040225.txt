@@ -1,0 +1,278 @@
+Build a fully interactive personal finance web application that represents money as a space navigation system, not as tables, charts, or spreadsheets.
+
+This product is not a traditional finance app.
+It is a financial universe where users actively control their money.
+
+The experience must feel:
+	•	Calm
+	•	Cinematic
+	•	Minimal
+	•	Emotionally intelligent
+	•	Visually iconic
+
+⸻
+
+2. Core Rule (Non-Negotiable)
+
+This app must allow real user input.
+
+Users must be able to:
+	•	Add income
+	•	Add expenses
+	•	Categorize each entry
+	•	Edit and delete entries
+
+Any version that only shows analytics or statistics without data input is invalid.
+
+⸻
+
+3. Space-First Design Philosophy
+
+Space is not a theme — it is the interface logic.
+
+Visual Environment:
+	•	Deep black / cosmic navy background
+	•	Large negative space
+	•	Floating particles / subtle stars
+	•	Soft glows and light halos
+	•	No hard UI borders
+	•	No traditional cards or widgets
+
+All elements must feel:
+	•	Floating
+	•	Orbital
+	•	Weightless
+	•	Calm
+
+Avoid:
+	•	Dashboards
+	•	Tables
+	•	Spreadsheet layouts
+	•	Productivity-app visuals
+
+⸻
+
+4. Primary Interface – Financial Timeline 🌌
+
+The main screen is a space timeline.
+
+Timeline Structure:
+	•	Time flows horizontally
+	•	Each month is a glowing planetary node
+	•	Current month is highlighted
+	•	Past months fade into darkness
+	•	Future months are barely visible silhouettes
+
+Financial Meaning:
+	•	Stable month → smooth orbit
+	•	High spending → orbital disturbance
+	•	Savings → stabilizing ring
+	•	Large transaction → visible ripple or wave
+
+The timeline must react in real time to user input.
+
+⸻
+
+5. Input System – Active Control (Critical)
+
+Users must actively control their finances.
+
+Input Actions:
+	•	Add Income
+	•	Add Expense
+	•	Edit Entry
+	•	Delete Entry
+
+Input UX:
+	•	Floating control module or modal
+	•	Space-control aesthetic
+	•	Minimal fields only:
+	•	Amount
+	•	Type (Income / Expense)
+	•	Category
+	•	Optional note
+	•	Date (default: today)
+
+Adding data should feel like adjusting a spacecraft’s trajectory, not filling a form.
+
+⸻
+
+6. Categories (Mandatory)
+
+Every entry must belong to a category.
+
+Income Categories:
+	•	Salary
+	•	Business / Freelance
+	•	Investments
+	•	Gifts
+	•	Other Income
+
+Expense Categories:
+	•	Food & Dining
+	•	Drinks & Coffee
+	•	Transportation
+	•	Rent / Housing
+	•	Utilities
+	•	Subscriptions
+	•	Shopping
+	•	Entertainment
+	•	Health
+	•	Travel
+	•	Education
+	•	Other Expenses
+
+Categories must influence:
+	•	Visual behavior
+	•	Timeline intensity
+	•	Analytics
+
+⸻
+
+7. Financial Identity (AI-Generated)
+
+The system assigns a financial identity, not a score.
+
+Examples:
+	•	The Observer
+	•	The Drifter
+	•	The Stabilizer
+	•	The Builder
+
+This identity:
+	•	Evolves slowly over time
+	•	Is descriptive, not judgmental
+	•	Appears subtly in the interface
+
+Example message:
+
+“Your orbit is shifting. Stay aware.”
+
+⸻
+
+8. Analytics – Visual & Spatial (No Tables)
+
+Provide insights without traditional charts.
+
+Examples:
+	•	Income vs expense as orbital balance
+	•	Category dominance as light intensity
+	•	Spending pace as motion speed
+	•	Month-to-month comparison via distance
+
+All analytics must remain:
+	•	Visual
+	•	Calm
+	•	Spatial
+	•	Minimal
+
+⸻
+
+9. AI Behavior – Invisible Intelligence
+
+AI must never act as a chatbot.
+
+AI should:
+	•	Auto-suggest categories from text
+	•	Detect unusual spending shifts
+	•	Influence financial identity evolution
+	•	Generate monthly reflection text
+
+AI must be:
+	•	Optional
+	•	Silent
+	•	Supportive
+	•	Never block manual input
+	•	Never give financial advice
+
+⸻
+
+10. End-of-Month Memory
+
+At the end of each month, generate one moment.
+	•	One sentence
+	•	One visual state
+	•	One emotional takeaway
+
+Example:
+
+“This month was steady. You stayed in orbit.”
+
+No charts.
+No breakdowns.
+Just reflection.
+
+⸻
+
+11. Animations – Physics-Based
+
+All animations must follow space physics, not UI gimmicks.
+
+Rules:
+	•	Slow easing
+	•	No bouncing
+	•	No snap effects
+
+Examples:
+	•	Income → orbit stabilizes and glows
+	•	Expense → orbit dims or shifts
+	•	Large expense → visible shockwave
+	•	Timeline scrolling → inertial movement
+
+⸻
+
+12. Login & Trust
+
+Include a professional login / signup page.
+	•	Minimal space-themed design
+	•	Email + password (OAuth optional)
+	•	Visible trust statements:
+	•	No bank connections
+	•	Encrypted data
+	•	Delete everything anytime
+
+Entering the app should feel like entering a secure space station.
+
+⸻
+
+13. Language & Tone
+
+Tone must be:
+	•	Calm
+	•	Sparse
+	•	Human
+	•	Reflective
+
+Avoid:
+	•	Financial jargon
+	•	Commands
+	•	Motivation language
+
+Prefer:
+
+“You remained stable.”
+“This month drifted slightly.”
+
+⸻
+
+14. Final Rule
+
+If a feature:
+	•	Adds complexity
+	•	Requires explanation
+	•	Breaks calmness
+
+Remove it.
+
+This product wins through restraint, emotion, and clarity.
+
+⸻
+
+Final Outcome
+
+The final app must:
+	•	Allow real financial input
+	•	React visually in real time
+	•	Feel unlike any finance app
+	•	Be memorable after one use
+	•	Turn money into a calm, navigable experience
